@@ -1,1 +1,3 @@
 Something else.
+
+What does that mean (that some changes are stagged but some are not).
