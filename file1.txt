@@ -3,3 +3,5 @@ Something else.
 What does that mean (that some changes are stagged but some are not).
 
 This is cool stuff.
+
+This is rad stuff.
